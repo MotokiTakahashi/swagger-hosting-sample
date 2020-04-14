@@ -1,4 +1,4 @@
 # swagger-pages-sample
 Swagger UI hosting in GitHub Pages
 
-https://gyamoto.github.io/swagger-pages-sample/
+https://motokitakahashi.github.io/swagger-hosting-sample/
